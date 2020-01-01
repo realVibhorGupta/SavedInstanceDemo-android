@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SavedInstanceAppdemo</string>
+    <string name="enter_some_text_here">Enter Some text here</string>
+    <string name="onsavedinstance_app">OnSavedInstance App</string>
+</resources>
